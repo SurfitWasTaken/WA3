@@ -1,11 +1,19 @@
 # General description of project
-> E.g. Building an inventory tracking system for my CCA
-
-#Goals of project
-> E.g. Streamline tracking and cataloguing of inventory to facilitate member loans, repairs & Semester stock-taking needs
-
+> Aim training platform, where users have to click targets on the screen rapidly.
+> 
+# Goals of project
+> Improve the user's aim over time,
 # Listing of features
-> List all the features in the fully functional app - you may choose to work on a subset of this listing to produce a MVP (minimum viable product) given constraint of time
+> 1. Crosshair for aim assistance, crosshair will not be 100% accurate, there will be firing error(https://bestgamingtips.com/what-is-firing-error-valorant/#:~:text=Firing%20Error%20is%20a%20crosshair,back%20to%20its%20neutral%20position.)
+
+> 2. show what percentile the user is in, in comparison to global data.
+
+> 3. Have multiple modes fo train aim: 
+> e.g. Stationary targets,
+> moving targets
+> targets of varying sizes.
+
+> 4. Provide personalised reports, based on the user's performance.
 
 # External Scanning
 > Are there similar apps / codebase that you found online that is similar to your project?  Provide link(s) to these projects and outline how will your project be different?
