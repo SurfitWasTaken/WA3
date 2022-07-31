@@ -4,7 +4,7 @@
 # Goals of project
 > Improve the user's aim over time,
 
-> Improve user's eraction time
+> Improve user's reaction time
 # Listing of features
 > 1. Crosshair for aim assistance(customisable if possible)
 
