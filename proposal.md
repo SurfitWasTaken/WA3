@@ -37,6 +37,15 @@
 # [Development Log](/devlog.md)
 > You will be updating this section regularly
 > - Week 5
+
+>   Goals set: Create scene, define player movement.
+
+> Problem encountered: Unity wass extremely slow, hanged every few minutes.   
+
+> Goals for next week: Create target system(Target spawning, target destruction)
+
+
+
 > - Week 6
 > - Week 7
 > - Week 8
