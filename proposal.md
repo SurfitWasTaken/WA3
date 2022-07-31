@@ -22,14 +22,17 @@
 
 > aimtrainer.io features a crosshair(not customisable) and multiple modes to train aim in.
 
-> If possible I would like to develop this application in 3D, but I would be limited in terms of hardware as well, 
+> If possible I would like to develop this application in 3D, but I would be limited in terms of hardware.
 
 # Listing of Key Use Cases
-> Yearly, CCA senior will do stock-take and will need to generate a report on the existing stock.
-> Start of school break, members will loan equipment and will need to return when school break ends.
+> eSports professionals who would like to improve their aim so that they can unleash their full potential in First Person Shooters can use this platform.
+
+> Casual use would also improve a person's reaction time, thus improving their reactime to stimuli in the real world.
 
 # Skills that my project requires me to pick up
-> List out the skills that you are not familiar with that is necessary due to the project scope.
+> I need to learn C# as well as 
+> how to use Unity hub
+> 
 
 # [Development Log](/devlog.md)
 > You will be updating this section regularly
