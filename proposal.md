@@ -3,8 +3,10 @@
 > 
 # Goals of project
 > Improve the user's aim over time,
+
+> Improve user's eraction time
 # Listing of features
-> 1. Crosshair for aim assistance, crosshair will not be 100% accurate, there will be firing error(https://bestgamingtips.com/what-is-firing-error-valorant/#:~:text=Firing%20Error%20is%20a%20crosshair,back%20to%20its%20neutral%20position.)
+> 1. Crosshair for aim assistance(customisable if possible)
 
 > 2. show what percentile the user is in, in comparison to global data.
 
@@ -16,7 +18,11 @@
 > 4. Provide personalised reports, based on the user's performance.
 
 # External Scanning
-> Are there similar apps / codebase that you found online that is similar to your project?  Provide link(s) to these projects and outline how will your project be different?
+> There is this website called Human Benchmark at humanbenchmark.com/tests/aim, which doesn't feature a crosshair function or multiple modes to train aim.
+
+> aimtrainer.io features a crosshair(not customisable) and multiple modes to train aim in.
+
+> If possible I would like to develop this application in 3D, but I would be limited in terms of hardware as well, 
 
 # Listing of Key Use Cases
 > Yearly, CCA senior will do stock-take and will need to generate a report on the existing stock.
