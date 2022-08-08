@@ -47,6 +47,12 @@
 
 
 > - Week 6
+>   Goals set: Come up with the target system(Spawning and destruction of targets)
+>   
+> I needed to get used to C#
+
+> Goals for next week: Implement Crosshair, Introduce colours in scene.
+> 
 > - Week 7
 > - Week 8
 > - Week 9
