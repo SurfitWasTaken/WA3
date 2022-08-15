@@ -55,6 +55,9 @@
 > Goals for next week: Implement Crosshair, Introduce colours in scene.
 > 
 > - Week 7
+> I literally didn't do anything this week. I took a break for this week because I couldn't find my file in unity, so i gave up after a while. I wanted to do the crpsshair this week, and add in colours in the scene this week, but after some thought, I want the background of the aimtrainer to be not be distracting so it will just be gray. Next week, I intend to implement the crosshair system and include user generated variables, so the user will be able to control the target size and colour
+
+
 > - Week 8
 > - Week 9
 > - Week 10
