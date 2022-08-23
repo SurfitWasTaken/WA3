@@ -55,9 +55,15 @@
 > Goals for next week: Implement Crosshair, Introduce colours in scene.
 > 
 > - Week 7
-> I literally didn't do anything this week. I took a break for this week because I couldn't find my file in unity, so i gave up after a while. I wanted to do the crpsshair this week, and add in colours in the scene this week, but after some thought, I want the background of the aimtrainer to be not be distracting so it will just be gray. Next week, I intend to implement the crosshair system and include user generated variables, so the user will be able to control the target size and colour
+
+> I literally didn't do anything this week. I took a break for this week because I couldn't find my file in unity, so i gave up after a while. I wanted to do the crosshair this week, and add in colours in the scene this week, but after some thought, I want the background of the aimtrainer to be not be distracting so it will just be gray. Next week, I intend to implement the crosshair system and include user generated variables, so the user will be able to control the target size and colour
 
 
 > - Week 8
+
+> Hello! So here are the stuff I have accomplished over the past week:
+
+> 1) Upside -> Implemented a working crosshair! Downside -> Crosshair isnt actually a crosshair, just a dot in the middle of the screen, (as an UI image). I would like the user to be able to change his crosshair as he would like, but I'm presuming that's a bit too ambitious. Instead, I want to have preset variables that the player can choose from, in order to customise his crosshair. -> The UI canvas(the crosshair is an UI image under the UI canvas) is glitching, I'm not so sure why. It's outlined in white, even when not selected. 2) Coming up with user generated variables, as I have come to realise. I need to reference to a lot more content before I can finally decide how I'm going to go about it. A few of the user generated variables that the aimtrainer would aim to utilise: target size, crosshair, colour of targets, and so on... 
+
 > - Week 9
 > - Week 10
