@@ -66,4 +66,8 @@
 > 1) Upside -> Implemented a working crosshair! Downside -> Crosshair isnt actually a crosshair, just a dot in the middle of the screen, (as an UI image). I would like the user to be able to change his crosshair as he would like, but I'm presuming that's a bit too ambitious. Instead, I want to have preset variables that the player can choose from, in order to customise his crosshair. -> The UI canvas(the crosshair is an UI image under the UI canvas) is glitching, I'm not so sure why. It's outlined in white, even when not selected. 2) Coming up with user generated variables, as I have come to realise. I need to reference to a lot more content before I can finally decide how I'm going to go about it. A few of the user generated variables that the aimtrainer would aim to utilise: target size, crosshair, colour of targets, and so on... 
 
 > - Week 9
+
+> I have come to realise that in order for any sort of user variable inputs to take place, there must be a pause menu, which I have completely overlooked. i have been struggling eith the pause menu a lot, because my crosshair is already implemented in the scene, meaning that the cursor is not visible to the player. I am going to think of new ways I can solve this problem, and read up a bit more about how to transition from scenes. I also need to work on the user report(features 2 and 4), which means that the user generated variables would have to be kept to a minimum. (also, I can't seem to upload my files onto github, because it says it doesn't support that kind of file type)
+
+
 > - Week 10
