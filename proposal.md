@@ -71,3 +71,5 @@
 
 
 > - Week 10
+
+>  I finished the main menu, and am now working on the pause menu, which seems to be a bit of a problem, because my cursor is locked(to facilitate the 'looking around' movement of the aimtrainer), so I can't really get the pause menu buttons that the cursor is hovering over them because, well, there is no cursor. I'll see how this goes and then maybe ask around for help if I can't do it. I would also like to add the timer function by the next week, so that the aimtrainer has away to time your reaction time.
