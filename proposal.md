@@ -73,3 +73,7 @@
 > - Week 10
 
 >  I finished the main menu, and am now working on the pause menu, which seems to be a bit of a problem, because my cursor is locked(to facilitate the 'looking around' movement of the aimtrainer), so I can't really get the pause menu buttons that the cursor is hovering over them because, well, there is no cursor. I'll see how this goes and then maybe ask around for help if I can't do it. I would also like to add the timer function by the next week, so that the aimtrainer has away to time your reaction time.
+
+>Sep Hols
+
+> UPDATE: I'm restarting the entire project. The current Version I'm using for Unity is unable to exploit one of UNity's glitches, so I would ahve to change the editor version, and thus consequently, all the scripts would be "corrupted" in the new version. Also, right now my heirachy is not organised, so I want to restart so that I start from the top and know what I need to do next, allowing for a more organised workstation.
